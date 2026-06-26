@@ -26,5 +26,5 @@ An asynchronous, object-oriented Python voice assistant engineered specifically 
 
 ### 1. Clone the environment layout:
 ```bash
-git clone [https://github.com/lev173/Jarvis-Voice-Assistant.git](https://github.com/lev173/Jarvis-Voice-Assistant.git)
+git clone https://github.com/lev173/Jarvis-Voice-Assistant.git
 cd Jarvis-Voice-Assistant
